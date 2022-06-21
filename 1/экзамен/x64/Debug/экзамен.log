@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Git\ekz\1\экзамен\Source.cpp(164,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\Git\ekz\1\экзамен\Source.cpp(29): warning C4715: readingFile: значение возвращается не при всех путях выполнения
+  экзамен.vcxproj -> E:\Git\ekz\1\x64\Debug\экзамен.exe
