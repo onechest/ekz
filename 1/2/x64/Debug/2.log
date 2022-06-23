@@ -1,2 +1,3 @@
-﻿  Source.cpp
+﻿  function.cpp
+E:\Git\ekz\1\2\function.cpp(168,32): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
   2.vcxproj -> E:\Git\ekz\1\x64\Debug\2.exe
